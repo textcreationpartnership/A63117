@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Free thoughts concerning officers in the House of Commons</title>
+            <author>Trenchard, John, 1662-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63117</idno>
+            <idno type="STC">Wing T2112A</idno>
+            <idno type="STC">ESTC T40180</idno>
+            <idno type="EEBO-CITATION">13798486</idno>
+            <idno type="OCLC">ocm 13798486</idno>
+            <idno type="VID">101878</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101878)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Free thoughts concerning officers in the House of Commons</title>
+                  <author>Trenchard, John, 1662-1723.</author>
+                  <author>Trenchard, John, 1662-1723. Short history of standing armies in England.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Written by John Trenchard.  Cf. NUC pre-1956.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>A reprint of the preface to Trenchard's History of standing armies in England.  Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Elections.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101878:1" rendition="simple:additions"/>
+            <head>FREE THOUGHTS Concerning Officers in the Houſe of Commons</head>
+            <argument>
+               <head>To the Reader.</head>
+               <p>THE following Paper was printed in the year <hi>1698.</hi> as a Preface to the <hi>Hiſtory of Standing Armies;</hi> and as it then met with a general Approbation, ſo, if I miſtake not, it had a favourable re<g ref="char:EOLhyphen"/>ception with ſome, whoſe Eyes are now open'd, and ſee better things: therefore in order to put them in mind of their obſolete forgotten Notions, and to give others a Caution not to be miſled by thoſe who hold no Principles longer than they are out of Places, I thought it might not be unſeaſonable at this time to reprint it: however, if it does no good, I am ſure it can do no harm.</p>
+            </argument>
+            <p>THERE is nothing in which the generality of Mankind are ſo much miſtaken, as when they diſcourſe of Government. The different Effects of it are obvious to every one, but few can trace its Cauſes. Moſt Men attribute all publick Miſcarriages to the Corruption of Mankind. They think the whole Maſs is infected, that it's impoſſible to make any Reformation, and ſo ſubmit patiently to their Country's Calamities, or elſe ſhare in the Spoil: whereas Complaints of this kind are as old as the World, and every Age has thought their own the worſt. We have not only our own Experience, but the Example of all Times, to prove that Men in the ſame Circumſtances will do the ſame things, call them by what Names of diſtinction you pleaſe. A Government is a mere piece of Clockwork, and having ſuch Springs and Wheels, muſt act accordingly: and therefore the Art is to conſtitute it ſo, that it muſt move to the publick Advantage. It is cer<g ref="char:EOLhyphen"/>tain
+<pb n="2" facs="tcp:101878:2"/>that moſt Men will act for their own Intereſt; and all wiſe Governments are founded upon that Principle: So that the Endeavour muſt be to make the Intereſt of the Governors and Governed the ſame. In an Abſolute Monarchy, where the whole Power is in one Man, his Intereſt will only be regarded: In an Ariſtocracy the Intereſt of a few; and in a free Go<g ref="char:EOLhyphen"/>vernment the Intereſt of the whole. This wou'd be the Caſe of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> if ſome Abuſes that have lately crept into our Conſtitution were re<g ref="char:EOLhyphen"/>mov'd. The Freedom of this Kingdom depends upon the Peoples chuſing the Houſe of Commons, who are a part of the Legiſlature, and have the ſole Power of giving Mony. Were this a true Repreſentative, and free from ex<g ref="char:EOLhyphen"/>ternal Force, or private Corruption, nothing could paſs there but what they thought was for the public Advantage. For their own Intereſt is ſo inter<g ref="char:EOLhyphen"/>woven with the Peoples, that if they act for themſelves they muſt act for the common Intereſt of <hi>England.</hi> And if a few Men among them ſhould think it their Intereſt to abuſe their Power, it will be the Intereſt of all the reſt to puniſh them for it: and then our Government would act mechanically, and a Rogue will as neceſſarily be hang'd, as a Clock ſtrike twelve. This is the Fountain head from whence the People expect all their Happineſs, and the redreſs of their Grievances: and if we can preſerve them free from Cor<g ref="char:EOLhyphen"/>ruption, they will keep every body elſe ſo. Our Conſtitution ſeems to have provided for it, by never ſuffering the King (till <hi>Charles</hi> the Second's Reign) to have an Army to frighten them into a Compliance, nor Places or Reve<g ref="char:EOLhyphen"/>nues great enough to bribe them into it. The Places in the King's Gift were but few, and moſt of them Patent Places for Life, and the reſt great Offices of State enjoy'd by ſingle Perſons, which ſeldom fell to the ſhare of the Commons, ſuch as the Lord Chancellor, Lord Treaſurer, Privy-Seal, Lord High-Admiral, <hi>&amp;c.</hi> And when theſe Offices were poſſeſs'd by the Lords, the Commons were ſevere Inquiſitors into their Actions. Thus the Government of <hi>England</hi> continued till the time of <hi>Charles</hi> the Firſt, who was the firſt I have read of that made an Oppoſition to himſelf in the Houſe of Commons the Road to Preferment; of which the Earl of <hi>Strafford</hi> and <hi>Noy</hi> were the moſt remarkable Inſtances, who from great Patriots became the chief Aſſerters of Deſpotic Power. But this ſerv'd only to exaſperate the reſt; for he had not Places enough for all that expected them, nor Mony enough to bribe them. 'Tis true, he rais'd great Sums of Mony upon the People; but it being without Authority of Parliament, and having no Army to back him, it met with ſuch Difficulties in the raiſing, that it did him little good, and ended at laſt in his Ruin, tho by the means of a long and miſerable War, which brought all things into the power of an Army, who govern'd the Nation by a Council of War, and made all Parties join in calling in <hi>Charles</hi> the Second: So that he came in with the general Applauſe of the People, who in a kind fit gave him a vaſt Revenue for Life. By this he was enabled to raiſe a new Army, and bribe the Parliament, which he did to the purpoſe: But being a luxurious Prince, he cou'd not part with great Sums at once. He only fed them from hand to mouth: So that they found it as neceſſary to keep him in a conſtant dependence upon them, as they had upon him. They knew
+<pb n="3" facs="tcp:101878:2"/>he wou'd give them ready Mony no longer than he had abſolute neceſſity for them, and he had not Places enough in his Diſpoſal to ſecure a Majority in the Houſe: for in thoſe early days the Art was not found out of ſplitting and mul<g ref="char:EOLhyphen"/>tiplying Places, as inſtead of a Lord Treaſurer, to have five Lords of the Treaſury; inſtead of a Lord Admiral, to have ſeven Lords of the Admiral<g ref="char:EOLhyphen"/>ty; to have ſeven Commiſſioners of the Cuſtoms; nine of the Exciſe; four<g ref="char:EOLhyphen"/>teen of the Navy Office; ten of the Stamp Office; eight of the Prize Office; ſixteen of the Commiſſioners of Trade; two of the Poſt Office; four of the Tranſports; four for Hackney Coaches; four for Wine-Licences; four for the Victualling Office; and multitudes of other Offices which are endleſs to enumerate.</p>
+            <p>I believe the Gentlemen who have the good Fortune to be in ſome of theſe Imployments, will not pretend that they have bin better executed ſince they were in ſo many hands, than when in fewer: and I muſt confeſs, I ſee no rea<g ref="char:EOLhyphen"/>ſon why they may not be made twice as many, and ſo on, unleſs the Number be aſcertain'd by Parliament: and what danger this may be to our Conſtitu<g ref="char:EOLhyphen"/>tion, I think of with Horror. For if in Ages to come they ſhou'd be all given to Parliament Men, what will become of our ſo much boaſted Liberty? What ſhall be done when the Criminal becomes the Judg, and the Malefac<g ref="char:EOLhyphen"/>tors are left to try themſelves? We may be ſure their common Danger will unite them, and they will all ſtand by one another. I do not ſpeak this by gueſs; for I have read of a Country where there was a conſtant Series of Miſ<g ref="char:EOLhyphen"/>management for many years together, and yet no body was puniſh'd: and even in our own Country I believe, ſome Men now alive can remember the time, when if the then King had but twenty more Places in his diſpoſal, or diſpos'd of thoſe he had to the beſt advantage, the Liberty of <hi>England</hi> had bin at an end. I wou'd not be underſtood quite to exclude Parliament-men from having Places; for a Man may ſerve his Country in two Capacities: but I would not have it to be a Qualification for a Place; becauſe a poor Borough thinks a Man fit to repreſent them, that therefore he muſt be a Stateſman, a Lawyer, a Soldier, an Admiral, and what not? If this Method ſhou'd be taken in a future Reign, the People muſt not expect to ſee Men of Ability or Integrity in Places, while they hold them by no other tenure than the Diſſer<g ref="char:EOLhyphen"/>vice they do their Country in the Houſe of Commons, and are ſure to be turn'd out by every prevalent Faction on the other ſide. They muſt then ne<g ref="char:EOLhyphen"/>ver expect to ſee the Houſe of Commons act vigorouſly for the Intereſt either of King or People; but ſome will ſervilely comply with the Court to keep their Places, others will oppoſe it as unreaſonably to get them: and thoſe Gentlemen whoſe Deſigns are for their Country's Intereſt, will grow weary of the beſt Form of Government in the World, thinking by miſtake the Fault is in our Conſtitution. I have heard of a Country, where the Diſputes about Offices to the value of Thirty Thouſand Pounds <hi>per annum,</hi> have made Six Millions ineffectual; what by ſome Mens proſtitute compliance, and others openly clogging the Wheels, it has caus'd Want and Neceſſity in all kinds of Men but themſelves, Bribery, Treachery, Profaneneſs, Atheiſm, Prodigality, Luxury, and all the Vices that attend a remiſs and corrupt Adminiſtration,
+<pb n="4" facs="tcp:101878:3"/>and an univerſal neglect of the Publick. It is natural to run from one ex<g ref="char:EOLhyphen"/>treme to another; and this Policy will at laſt turn upon any Court that uſes it: for if they ſhou'd be reſolv'd to give all Offices to Parliament-men, the People will think themſelves under a neceſſity to obtain a Law that they ſhall give none, which has been more than once attempted in our own time. In<g ref="char:EOLhyphen"/>deed, tho there may be no great Inconvenience in ſuffering a few Men that have Places to be in that Houſe, ſuch as come into them naturally, without a<g ref="char:EOLhyphen"/>ny indirect Means, yet it muſt be fatal to us to have many: for all wiſe Go<g ref="char:EOLhyphen"/>vernments endeavour, as much as poſſible, to keep the Legiſlative and Execu<g ref="char:EOLhyphen"/>tive Parts aſunder, that the former may be a check upon the latter. Our Go<g ref="char:EOLhyphen"/>vernment truſts the King with no part of the Legiſlative but a Negative Voice, which is abſolutely neceſſary to preſerve the Executive. One part of the Du<g ref="char:EOLhyphen"/>ty of the Houſe of Commons is to puniſh Offenders, and redreſs the Grie<g ref="char:EOLhyphen"/>vances occaſion'd by the Executive Part of the Government; and how can that be done if they ſhou'd happen to be the ſame Perſons?</p>
+            <p>But in my Opinion, in another thing of no leſs Importance, we have devi<g ref="char:EOLhyphen"/>ated from our Conſtitution: for tho we were in a Capacity of puniſhing Of<g ref="char:EOLhyphen"/>fenders, yet we do not know legally who they are. The Law has been al<g ref="char:EOLhyphen"/>ways very tender of the Perſon of the King, and therefore has diſpos'd the Executive Part of the Government in ſuch proper Channels, that whatever Errors are committed, they are not imputed to him, but his Miniſters are accountable for them: His Great Seal is kept by his Chancellor, his Revenue by his Treaſurer, his Laws are executed by his Judges, his Fleet is manag'd by his Lord High Admiral, who are all accountable for their Misbehaviour: And formerly all Matters of State and Diſcretion were debated and reſolv'd in the Privy Council, where every Man's Opinion might be known, and he was anſwerable for it. The late King <hi>Charles</hi> broke this moſt excellent part of our Conſtitution, by ſettling a Cabal or Cabinet-Council, where all Matters of Conſequence were debated and reſolv'd, and then brought to the Privy Coun<g ref="char:EOLhyphen"/>cil to be confirm'd. The firſt footſteps we have of this Council in any Chriſ<g ref="char:EOLhyphen"/>tian Government were in <hi>Charles</hi> the Ninth's time of <hi>France,</hi> when reſolving to maſſacre the Proteſtants, he durſt not truſt his Council with it, but choſe a few Men whom he call'd his Cabinet-Council: and conſidering what a Gene<g ref="char:EOLhyphen"/>alogy it had, 'tis no wonder it has been ſo fatal both to King and People. To the King: for whereas our Conſtitution has provided Miniſters in the ſeveral Parts of the Government to anſwer for Miſcarriages, and to skreen him from the Hatred of the People; this on the contrary protects the Miniſters, and expoſes the King to all the Complaints of his Subjects. And 'tis as dangerous to the People: for whatever Miſcarriages there are, no body can be puniſh'd for them; for they juſtify themſelves by a private Direction from the King: and then we have run it ſo far, that we can't follow it. The Conſequence of this muſt be continual Heart-burnings between King and People; and no one can ſee the Event.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
